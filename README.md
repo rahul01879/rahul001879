@@ -1,82 +1,106 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Rahul+Sharma;Full-Stack+Developer+(MERN);Building+Real-World+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Rahul+Sharma;Full-Stack+Developer+(MERN);Building+Scalable+Real-World+Applications;Passionate+About+Clean+UI+%26+Backend+Systems" />
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul001879-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul001879@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul01879)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul001879-dev)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul001879@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul01879)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🎓 BCA Student | 💻 Full Stack Developer (MERN)  
-📍 Surat, Gujarat, India  
+BCA student and full stack developer specializing in the MERN stack.  
+I build scalable web applications with a strong focus on backend architecture, clean UI, and real-world problem solving.
 
-I build **full-stack web applications** with a focus on clean UI, scalable backend systems, and real-world problem solving.
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 eCommerce Web App (Top Project)
-- Full-stack MERN application  
-- Authentication & protected routes  
-- Cart, checkout, and order system  
-- Product search & filtering  
-
-**Tech Stack:** `React` `Node.js` `Express` `MongoDB`
-
-👉 https://github.com/rahul01879/ecommerce-website  
+- Location: Surat, Gujarat, India  
+- Focus: Full Stack Development, Backend Systems, Real-World Applications  
 
 ---
 
-### 💻 CodeHub – Code Sharing Platform
-- JWT-based authentication  
-- Create, manage, and share code snippets  
-- REST API with MongoDB  
+## Featured Projects
 
-**Tech Stack:** `React` `Node.js` `MongoDB`
+### GlobeExplore – Travel Exploration Platform
+A full-stack travel platform with interactive maps and community-driven content.
 
----
+- Interactive map-based exploration using Leaflet  
+- Real-time geolocation and nearby discovery  
+- Reviews, ratings, and personalized wishlist  
+- Admin dashboard for managing platform content  
 
-### 💬 Real-Time Chat App
-- Real-time messaging system  
-- Clean UI with responsive design  
+Tech Stack: React, Node.js, Express, MongoDB  
 
-**Tech Stack:** `Node.js` `Socket.io` `JavaScript`
-
----
-
-### ☁️ NextDrive – File Sharing System
-- Upload and manage files  
-- Backend-driven file handling  
-
-**Tech Stack:** `PHP` `MySQL`
+Live: https://globeexplore.vercel.app  
+Repository: https://github.com/rahul01879/globeexplore  
 
 ---
 
-## 🛠 Tech Stack
+### CodeHub – Code Sharing Platform
+A developer-focused platform for managing and sharing code snippets.
 
-**Frontend:**  
+- JWT-based authentication and protected routes  
+- Snippet creation, editing, and management  
+- REST API with scalable backend structure  
+
+Tech Stack: React, Node.js, Express, MongoDB  
+
+---
+
+### eCommerce Web Application
+A complete MERN-based eCommerce platform.
+
+- Authentication and user management  
+- Cart, checkout, and order handling  
+- Product filtering and search functionality  
+
+Tech Stack: React, Node.js, Express, MongoDB  
+
+Repository: https://github.com/rahul01879/ecommerce-website  
+
+---
+
+### Real-Time Chat Application
+A secure and lightweight chat application with temporary rooms.
+
+- Real-time messaging using WebSockets  
+- Temporary chat rooms with auto-deletion  
+- Privacy-focused design  
+
+Tech Stack: Node.js, Socket.io, JavaScript  
+
+---
+
+### NextDrive – File Sharing System
+A backend-driven file sharing platform.
+
+- File upload and management  
+- Server-side handling and storage  
+
+Tech Stack: PHP, MySQL  
+
+---
+
+## Tech Stack
+
+Frontend  
 React.js, Tailwind CSS, HTML, CSS  
 
-**Backend:**  
+Backend  
 Node.js, Express.js  
 
-**Database:**  
+Database  
 MongoDB, MySQL  
 
-**Tools:**  
-Git, GitHub, Vercel  
+Tools  
+Git, GitHub, Vercel, Render  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
@@ -87,31 +111,31 @@ Git, GitHub, Vercel
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🚀 Building scalable MERN applications  
-- 📚 Improving backend & system design  
-- 💼 Preparing for Full Stack Developer roles  
-
----
-
-## 📫 Contact
-
-- 📧 rahul001879@gmail.com  
-- 🔗 https://linkedin.com/in/rahul001879-dev  
-- 💻 https://github.com/rahul01879  
+- Building production-ready full stack applications  
+- Improving backend architecture and system design  
+- Exploring AI integration in web applications  
 
 ---
 
-## 💼 Open to Opportunities
+## Contact
 
-✔ Full Stack Developer Internships  
-✔ Junior Developer Roles  
+Email: rahul001879@gmail.com  
+LinkedIn: https://linkedin.com/in/rahul001879-dev  
+GitHub: https://github.com/rahul01879  
+
+---
+
+## Open to Opportunities
+
+- Full Stack Developer Internships  
+- Junior Software Developer Roles  
 
 ---
 
 <div align="center">
 
-⭐ From Rahul Sharma
+Rahul Sharma
 
 </div>
